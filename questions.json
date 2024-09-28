@@ -1,0 +1,686 @@
+{
+  "heading": "Selected Topic",
+  "topics": [
+    {
+      "heading": "Knowing Our Numbers",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "There are 1712 coins in a red bag and 1238 coins in a green bag. Estimate the total number of coins to the nearest hundred in both the bags.",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "2700"
+            },
+            {
+              "text": "2900"
+            },
+            {
+              "text": "3900"
+            },
+            {
+              "text": "2900"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 2,
+          "question": " A shopkeeper has 568 kg of sugar. He sells 48 kg of sugar every day. Estimate how much sugar is left after 8 days sale to the nearest hundred",
+          "options": [
+            {
+              "text": "100 kg"
+
+            },
+            {
+              "text": "150kg"
+
+            },
+            {
+              "text": "200 kg"
+
+            },
+            {
+              "text": "250 kg"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Playing with Numbers",
+      "questions": [
+        {
+          "questionNo": 3,
+          "question": "Simplify:<br>(9 + 12) ÷ 7 + 36 ÷ 2 of 3",
+          "options": [
+            {
+              "text": "8"
+            },
+            {
+              "text": "9"
+            },
+            {
+              "text": "7"
+            },
+            {
+              "text": "10"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 4,
+          "question": "Simplify:<br>33 - [22 - {10 -5 of 2}]",
+          "options": [
+            {
+              "text": "15"
+            },
+            {
+              "text": "21"
+            },
+            {
+              "text": "10"
+            },
+            {
+              "text": "11"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "HCF and LCM",
+      "questions": [
+        {
+          "questionNo": 5,
+          "question": "Write the next two multiples of 23.",
+          "options": [
+            {
+              "text": "39, 59"
+            },
+            {
+              "text": "46, 59"
+            },
+            {
+              "text": "36, 69"
+            },
+            {
+              "text": "46, 69"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 6,
+          "question": "Write the greatest prime number less than or equal to the following number:78",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "78"
+            },
+            {
+              "text": "73"
+            },
+            {
+              "text": "75"
+            },
+            {
+              "text": "None of these"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 7,
+          "question": "Test whether 1728 is divisible by both 8 and 9.",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 8,
+          "question": "Find the greatest number which divides 245 and 1029 leaving a remainder 5 in each case.",
+          "options": [
+            {
+              "text": "15"
+
+            },
+            {
+              "text": "16"
+
+            },
+            {
+              "text": "26"
+
+            },
+            {
+              "text": "18"
+
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Yellow\" has a double \"L\" in the middle, while the other words do not have a double \"L.\""
+        },
+        {
+          "questionNo": 9,
+          "question": "Three bells ring at intervals of 15, 20, and 30 minutes. If they all ring at 12 noon together, at what time will they ring together again?",
+          "options": [
+            {
+              "text": "12 : 15 p.m."
+
+            },
+            {
+              "text": "12 : 30 p.m."
+
+            },
+            {
+              "text": "1 : 00 p.m."
+
+            },
+            {
+              "text": "1 : 30 p.m."
+
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Yellow\" has a double \"L\" in the middle, while the other words do not have a double \"L.\""
+        }
+      ]
+    },
+    {
+      "heading": "Whole Number and Integers",
+      "questions": [
+        {
+          "questionNo": 10,
+          "question": "A fruit seller placed 12 bananas, 10 oranges, and 6 apples in a fruit basket. Tarun buys 3 fruit baskets for a function. What is the tolal number of fruits in these 3 baskets?",
+          "options": [
+            {
+              "text": "74"
+            },
+            {
+              "text": "78"
+            },
+            {
+              "text": "84"
+            },
+            {
+              "text": "94"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 11,
+          "question": "Divide:<br>(15625) ÷ (- 25)",
+          "options": [
+            {
+              "text": "625"
+            },
+            {
+              "text": "525"
+            },
+            {
+              "text": "-525"
+            },
+            {
+              "text": "-625"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 12,
+          "question": "Subtract the sum of (-8) and (-28) from the sum of (-15) and (35).",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "66"
+            },
+            {
+              "text": "-56"
+            },
+            {
+              "text": "-66"
+            },
+            {
+              "text": "56"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 13,
+          "question": "The product of two integers is (-310). If one integer is (+62), find the other integer.",
+          "options": [
+            {
+              "text": "5"
+            },
+            {
+              "text": "15"
+            },
+            {
+              "text": "-5"
+            },
+            {
+              "text": "-15"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Fractions",
+      "questions": [
+        {
+          "questionNo": 14,
+          "question": "A boy reads <sup>2</sup>&frasl;<sub>5</sub> of a book on the first day and <sup>1</sup>&frasl;<sub>4</sub> of the same book on the second day. On which day did he read the major part of the book?",
+          "options": [
+            {
+              "text": "First day"
+            },
+            {
+              "text": "Second day"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 15,
+          "question": "Simplify:<br><img width='150px' style='width:80%' src='./assests/images/question/1.png'>",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "",
+              "image":"./assests/images/option/9.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/10.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/11.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/12.jpg"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 16,
+          "question": "In a company Rohit gets <sup>1</sup>&frasl;<sub>4</sub> of the profit, Sumeet gets <sup>2</sup>&frasl;<sub>5</sub> of the profit, and the remaining profit goes to Sujata. Find Sujara's share?",
+          "options": [
+            {
+              "text": "",
+              "image":"./assests/images/option/5.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/6.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/7.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/8.jpg"
+            }
+          ],
+          "answer": 0,
+          "explanation": "1"
+        }
+      ]
+    },
+    {
+      "heading": "Decimals",
+      "questions": [
+        {
+          "questionNo": 17,
+          "question": "Priya bought a notebook for $25.75 and a pen for $107.60. How much money did she spend?",
+          "options": [
+            {
+              "text": "$133.35"
+            },
+            {
+              "text": "$123.35"
+            },
+            {
+              "text": "$133.75"
+            },
+            {
+              "text": "$143.35"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 18,
+          "question": "The normal human body temperature is 98.6°F. If the temperature of a person rose to 102.6°F, how much above normal was his temperature?",
+          "options": [
+            {
+              "text": "3°F"
+            },
+            {
+              "text": "-4°F"
+            },
+            {
+              "text": "14°F"
+            },
+            {
+              "text": "4°F"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Linear Equations",
+      "questions": [
+        {
+          "questionNo": 19,
+          "question": "Use the systematic method to solve the following equation:<br>0 = 16 + (m - 6) 4",
+          "options": [
+            {
+              "text": "2"
+
+            },
+            {
+              "text": "12"
+
+            },
+            {
+              "text": "-2"
+
+            },
+            {
+              "text": "-4"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 20,
+          "question": "The sum of 3 consecutive integers is 45. What are these integers?",
+          "options": [
+            {
+              "text": "13, 14, 15"
+
+            },
+            {
+              "text": "12, 13, 14"
+
+            },
+            {
+              "text": "15, 16, 17"
+
+            },
+            {
+              "text": "14, 15, 16"
+
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Ratio and Proportion",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "The ratio of the number of boys and girls in a class is 5:9. Find the number of girls if the total number of students in the class is 56.",
+          "options": [
+            {
+              "text": "26"
+            },
+            {
+              "text": "36"
+            },
+            {
+              "text": "46"
+            },
+            {
+              "text": "35"
+            }
+          ],
+          "answer": 1,
+          "explanation": " This sentence tells us something. It states a fact, so it's a statement."
+        },
+        {
+          "questionNo": 22,
+          "question": "The number of cards collected by Rina, Mina, and Tina are in the ratio l:3:5 respectively. If Rina has a collection of 45 cards, find the number of cards with Mina and Tina.",
+          "options": [
+            {
+              "text": "135, 225"
+            },
+            {
+              "text": "125, 225"
+            },
+            {
+              "text": "135, 235"
+            },
+            {
+              "text": "125, 235"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Basic Geometrical",
+      "questions": [
+        {
+          "questionNo": 23,
+          "question": "In the figure given below, find the measure of ∠QRS.<BR><img width='150px' style='width:80%' src='./assests/images/question/3.png'>",
+          "options": [
+            {
+              "text": "125°"
+            },
+            {
+              "text": "130°"
+            },
+            {
+              "text": "135°"
+            },
+            {
+              "text": "140°"
+            }
+          ],
+          "answer": 2,
+          "explanation": " This sentence tells us something. It states a fact, so it's a statement."
+        },
+        {
+          "questionNo": 24,
+          "question": "The angles of a quadrilateral are 100°, 70°, 120°, and x°. Find the value of x.",
+          "options": [
+            {
+              "text": "60°"
+            },
+            {
+              "text": "65°"
+            },
+            {
+              "text": "70°"
+            },
+            {
+              "text": "75°"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Perimeter and Area",
+      "questions": [
+        {
+          "questionNo": 25,
+          "question": "The length and breadth of a rectangular park are 615 m and 550 m, respectively. Find the cost of fencing the park at the rate of $9.25 per metre.",
+          "options": [
+            {
+              "text": "$21552.50"
+            },
+            {
+              "text": "$21652.50"
+            },
+            {
+              "text": "$21542.40"
+            },
+            {
+              "text": "$21552.40"
+            }
+          ],
+          "answer": 0,
+          "explanation": " This sentence tells us something. It states a fact, so it's a statement."
+        },
+        {
+          "questionNo": 26,
+          "question": "Find the area of the given figure:<br><img width='150px' style='width:80%' src='./assests/images/question/2.png'>",
+          "options": [
+            {
+              "text": "32 cm<sup>2</sup>"
+            },
+            {
+              "text": "35 cm<sup>2</sup>"
+            },
+            {
+              "text": "42 cm<sup>2</sup>"
+            },
+            {
+              "text": "45 cm<sup>2</sup>"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 27,
+          "question": "How many stamps of size 2 cm x 1.5 cm can be pasted on a sheet of paper of size 6 cm x 12 cm ?",
+          "options": [
+            {
+              "text": "22 stamps"
+            },
+            {
+              "text": "24 stamps"
+            },
+            {
+              "text": "28 stamps"
+            },
+            {
+              "text": "34 stamps"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 28,
+          "question": "A rectangle is 25 m long and 16 m broad. Find the side of a square whose area is equal to the area of this rectangle.",
+          "options": [
+            {
+              "text": "20 m"
+            },
+            {
+              "text": "25 m"
+            },
+            {
+              "text": "30 m"
+            },
+            {
+              "text": "35 m"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Data Handling",
+      "questions": [
+        {
+          "questionNo": 29,
+          "question": "<img width='150px' style='width:67%' src='./assests/images/question/5.png'><ol style='text-align:start' type='i'><li>How many more students are there in Class IX than in Class VIII</li><li>Which class has the maximum number of students?</li></ol>",
+          "options": [
+            {
+              "text": "(i) 20, (ii) IX"
+            },
+            {
+              "text": "(i) 40, (ii) IX"
+            },
+            {
+              "text": "(i) 20, (ii) XI"
+            },
+            {
+              "text": "(i) 20, (ii) XII"
+            }
+          ],
+          "answer": 0,
+          "explanation": " This sentence tells us something. It states a fact, so it's a statement."
+        },
+        {
+          "questionNo": 30,
+          "question": "<img width='150px' style='width:67%' src='./assests/images/question/4.png'><ol style='text-align:start' type='i'><li>How many students go by car.</li><li>Which mode of transport is least used?</li></ol>",
+          "options": [
+            {
+              "text": "(i) 150, (ii) Cycle"
+            },
+            {
+              "text": "(i) 150, (ii) Car"
+            },
+            {
+              "text": "(i) 200, (ii) Cycle"
+            },
+            {
+              "text": "(i) 100, (ii) Bus"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}
